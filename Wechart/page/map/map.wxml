@@ -1,0 +1,12 @@
+<view>
+<map class="map" longitude="{{longitude}}" latitude="{{latitude}}"  ></map>
+</view>
+<view class="row">
+您的附近有有{{driver}}个师傅
+</view>
+<view class="call">
+<view class="ico">
+<image src="../image/call.png"></image>
+</view>
+<text>联系最近的师傅</text>
+</view>

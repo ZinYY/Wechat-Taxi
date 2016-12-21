@@ -1,0 +1,17 @@
+<!--page/search/near.wxml-->
+<map style="width:100%;height:600px">
+<view>
+<input />
+</view>
+</map>
+<view>
+<image class="search" src="../image/search.png"></image>
+</view>
+<view class="row">
+<view class="clo">
+<image src="../image/ktv.png"></image>
+</view>
+<view class="clo"><image src="../image/hotel.png"></image></view>
+<view class="clo"><image src="../image/restrount.png"></image></view>
+<view class="clo"><image src="../image/buy.png"></image></view>
+</view>

@@ -1,0 +1,20 @@
+<!--page/redbag/redbag.wxml-->
+<view class="content">
+<view class="redbag">
+<image src="../image/a7.jpg"></image>
+<text>12.12活动红包</text>
+</view>
+<view class="redbag">
+<image src="../image/a7.jpg"></image>
+<text>12.12活动红包</text>
+</view>
+<view class="redbag">
+<image src="../image/a7.jpg"></image>
+<text>12.12活动红包</text>
+</view>
+<view class="redbag">
+<image src="../image/a7.jpg"></image>
+<text>12.12活动红包</text>
+</view>
+
+</view>

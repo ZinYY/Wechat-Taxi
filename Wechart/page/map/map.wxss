@@ -1,0 +1,18 @@
+.map{
+    height: 500px;
+    width: 100%;
+}
+.row{
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    background-color: orange;
+}
+image{
+    width: 80px;
+    height: 80px;
+}
+.call{
+    margin: 50px auto;
+    text-align: center;
+}

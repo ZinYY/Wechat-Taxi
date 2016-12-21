@@ -1,0 +1,9 @@
+<!--page/help/help.wxml-->
+<view class="content">
+<view class="row">
+联系客服
+</view>
+</view>
+<view class="footer">
+没有解决您的问题??
+</view>

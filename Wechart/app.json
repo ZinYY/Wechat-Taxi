@@ -1,0 +1,27 @@
+{
+  "debug": true, 
+  "window": {
+    "navigationBarTextStyle": "white", 
+    "navigationBarBackgroundColor": "#4d4d4d", 
+    "navigationBarTitleText": "电子科大飞的通", 
+    "backgroundColor": "red", 
+    "enablePullDownRefresh": false, 
+    "backgroundTextStyle": "dark"
+  }, 
+  "pages": [
+    "page/index/index",
+    "page/map/map",
+    "page/user/user",
+    "page/mymoney/mymoney",
+    "page/search/near",
+    "page/redbag/redbag",
+    "page/help/help"
+
+  ], 
+  "networkTimeout": {
+    "connectSocket": "", 
+    "request": "", 
+    "downloadFile": "", 
+    "uploadFile": ""
+  }
+}

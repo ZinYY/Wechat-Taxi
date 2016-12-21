@@ -1,0 +1,16 @@
+/* page/mymoney/mymoney.wxss */
+.row{
+    background-color: lightgray;
+
+}
+.blue{
+    background-color: cornflowerblue;
+}
+.ico{
+    width: 15px;
+    height: 15px;
+    float: right;
+}
+navigator{
+float: right;
+}

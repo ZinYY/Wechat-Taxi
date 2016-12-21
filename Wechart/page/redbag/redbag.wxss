@@ -1,0 +1,22 @@
+/* page/redbag/redbag.wxss */
+.redbag{
+    background-color: red;
+    width: 80%;
+    margin:10px auto 0px auto;
+    height: 130px;
+    border-radius: 10px;
+    z-index: 1;
+    overflow: hidden;
+}
+image{
+    width: 100%;
+    height: 100px;
+    z-index: -1;
+}
+.redbag text{
+    text-align: center;
+    color: white
+}
+.content{
+    background-color: azure;
+}

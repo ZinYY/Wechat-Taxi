@@ -1,0 +1,55 @@
+<view class="c-minheight wx-view_o7tkfz" data-c_e_id="wx_view_9835d26b">
+  <view class="wx-view_a4ST3v {{wx_view465aa220.class}}" data-c_e_id="wx_view465aa220">
+    <view class="c-minheight wx-view_5sIsYs" data-c_e_id="wx_view11b94666">
+      <view class="wx-view_d7uNfa" data-c_e_id="wx_view01bf2356">
+        <navigator bindtap="tap_120984e1" class="wx-navigator_OhKtFF" data-c_act_id="act_e6cbbb0d" data-c_e_id="wx_navigator7bc6abce" hover-class="navigator-hover">
+          <image bindtap="tap_20b54177" class="wx-image_aZVWVN" data-c_e_id="wx_image181a0288" mode="aspectFit" src="http://qty83k.creatby.com/materials/origin/312b86f640c4c96694320b59b29a4f78_origin.png" style="background-size: contain; background-position: center center; background-repeat: no-repeat; background-image: url(http://qty83k.creatby.com/materials/origin/312b86f640c4c96694320b59b29a4f78_origin.png); "
+          />
+        </navigator>
+        <text class="c-block wx-text_uAlZ5A" data-c_e_id="wx_texte529cd56">电子科大飞的通</text>
+        <image class="wx-image_6SRp5A" data-c_e_id="wx_image1a30f8b9" mode="aspectFit" src="http://qty83k.creatby.com/materials/origin/dc4470fbd50c6f96c5847fa2ae475f2c_origin.png" style="background-size: contain; background-position: center center; background-repeat: no-repeat; background-image: url(http://qty83k.creatby.com/materials/origin/dc4470fbd50c6f96c5847fa2ae475f2c_origin.png); "
+        />
+      </view>
+      <view class="c-minheight wx-view_CBIpQN" data-c_e_id="wx_viewef4a0676">
+        <image class="wx-image_aMrgZC" data-c_e_id="wx_image0b7ff67e" mode="scaleToFill" src="" style="background-size: 100% 80%; background-position: 50% 50%; background-repeat: no-repeat; background-image: url(http://img.blog.csdn.net/20161209201539129); "
+        />
+      </view>
+      <view bindtap="findtex" class="wx-view_v9iXER" data-c_e_id="wx_viewc660a9a9">
+        <text class="c-block wx-text_RcdYex" data-c_e_id="wx_text0c70fabf">我要打车</text>
+      </view>
+    </view>
+    <navigator class="wx-navigator_Sr9KNE" data-c_e_id="wx_navigator03f4351e" hover-class="navigator-hover">
+      <view class="wx-view_IGoT1K" data-c_e_id="wx_viewf8674241">
+        <image class="wx-image_5jD4Rp" data-c_e_id="wx_image77d120d1" mode="scaleToFill" src="" style="background-size: 100% 100%; background-position: 0% 0%; background-repeat: no-repeat; background-image: url(../image/redbag.png); "
+        />
+        <view bindtap="redbag" class="wx-view_rqkHVb" data-c_e_id="wx_viewf9976347">
+          <text class="c-block wx-text_w0RU50" data-c_e_id="wx_textb3bd1921">我的红包</text>
+          <text class="c-block wx-text_zHpbmX" data-c_e_id="wx_text122f7466">未获得红包点击获取</text>
+        </view>
+      </view>
+      <text class="c-block wx-text_AgHv9w" data-c_e_id="wx_textf9816f3c"></text>
+    </navigator>
+    <navigator class="wx-navigator_Sr9KNE" data-c_e_id="wx_navigatore2ee9a91" hover-class="navigator-hover">
+      <view class="wx-view_IGoT1K" data-c_e_id="wx_viewb56516a5">
+        <image class="wx-image_5jD4Rp" data-c_e_id="wx_image3bf2294c" mode="scaleToFill" src="../image/moneybag.png" style="background-size: 100% 100%; background-position: 0% 0%; background-repeat: no-repeat; background-image: url(../image/moneybag.png); "
+        />
+        <view bindtap="mymoneybag" class="wx-view_rqkHVb" data-c_e_id="wx_view85f8b846">
+          <text class="c-block wx-text_w0RU50" data-c_e_id="wx_texte6c78808">我的钱包</text>
+          <text class="c-block wx-text_zHpbmX" data-c_e_id="wx_textbbe8b253">还剩{{money}}元</text>
+        </view>
+      </view>
+      <text class="c-block wx-text_AgHv9w" data-c_e_id="wx_text050b708e">❯</text>
+    </navigator>
+    <navigator class="wx-navigator_Sr9KNE" data-c_e_id="wx_navigator33ef7679" hover-class="navigator-hover">
+      <view class="wx-view_IGoT1K" data-c_e_id="wx_view503a7174">
+        <image class="wx-image_5jD4Rp" data-c_e_id="wx_image6811f531" mode="scaleToFill" src="http://qty83k.creatby.com/materials/origin/db20eb35ebccec714751ab885b116a03_origin.png" style="background-size: 100% 100%; background-position: 0% 0%; background-repeat: no-repeat; background-image: url(http://qty83k.creatby.com/materials/origin/db20eb35ebccec714751ab885b116a03_origin.png); "
+        />
+        <view bindtap="near" class="wx-view_rqkHVb" data-c_e_id="wx_view77939e28">
+          <text class="c-block wx-text_w0RU50" data-c_e_id="wx_text73a24ed7">附近</text>
+          <text class="c-block wx-text_zHpbmX" data-c_e_id="wx_text1318862a">宾馆，电影院，KTV</text>
+        </view>
+      </view>
+      <text class="c-block wx-text_AgHv9w" data-c_e_id="wx_text0f5c9e2a">❯</text>
+    </navigator>
+  </view>
+</view>

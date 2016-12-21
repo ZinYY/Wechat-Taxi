@@ -1,0 +1,12 @@
+<view class="content">
+<view class="login">
+<text style="color:black;" >请登录</text>
+<form>
+<input type="text"/>
+<input type="password" />
+<navigator url="../user/user">
+<button >登录</button>
+</navigator>
+</form>
+</view>
+</view>

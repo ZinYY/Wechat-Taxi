@@ -1,0 +1,16 @@
+<!--page/mymoney/mymoney.wxml-->
+<view>
+
+<view class="row blue">
+账户余额(元)
+<navigator url="../help/help">
+<image class="ico" src="../image/help.png"></image>
+</navigator>
+</view>
+<view>
+总资产:{{money}}元
+</view>
+<button>
+充值
+</button>
+</view>

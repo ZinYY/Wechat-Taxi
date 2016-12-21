@@ -1,0 +1,16 @@
+/* page/help/help.wxss */
+.row{
+    background-color: lightgrey;
+    border-radius: 3px;
+    margin: 10px auto;
+    font-size: 30px;
+}
+.content{
+    margin: 0 auto;
+    width: 80%;
+    height: 570px;
+}
+.footer{
+    position: fixed;
+    margin-bottom: 50px;
+}
